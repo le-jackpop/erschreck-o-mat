@@ -1,4 +1,4 @@
-# Jack Pop's Erschreck-o-Mat
+# Jack Pop's Erschreck-o-Mat 👻  
 Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pro mit einem Ultraschall-Abstandssensor (HC-SR04), einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
 
 ---
@@ -27,7 +27,7 @@ Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, sta
 
 ## 🛠️ Aufbau, Verdrahtung & Dokumentation
 
-Eine detaillierte Anleitung gibt es in diesem [Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link) und auf meiner Website unter [circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat).
+Eine detaillierte Anleitung gibt es in diesem **[Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link)** und auf meiner Website unter **[www.circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat)**.
 
 Bilder und Schaltplan findest du im Ordner [`/docs`](./docs).  
 
@@ -91,5 +91,5 @@ Details findest du in der Datei [`LICENSE`](./LICENSE) oder am Anfang des Arduin
 
 ---
 
-Viel Spaß beim Nachbauen und Erschrecken! 👻  
+Viel Spaß beim Nachbauen und Erschrecken!   
 *Jack Pop*
