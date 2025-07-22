@@ -1,15 +1,15 @@
 # Jack Pop's Erschreck-O-Mat 👻  
-Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pro mit einem Ultraschall-Abstandssensor (HC-SR04), einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
+Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatibles Pro Micro Board mit einem Ultraschall-Abstandssensor (HC-SR04), einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
 
 ---
 # Hardware
 
 ## 🔧 Komponenten
 
-- Arduino Micro Pro (oder kompatibles Entwicklungsboard)
+- Arduino-kompatibles Pro Micro Entwicklungsboard
 - HC-SR04 Ultraschall-Abstandssensor
 - DFPlayer Mini MP3-Modul
-- 1k Widerstand für DF Player TX-Pin
+- 1k Widerstand für DF Player RX-Pin
 - Mini-Lautsprecher (4–8 Ohm)
 - Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
 - Externe Stromversorgung (z. B. USB-Powerbank, 5V-Netzteil oder 9V-Block)
