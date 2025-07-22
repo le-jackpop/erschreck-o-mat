@@ -29,7 +29,7 @@ Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, sta
 
 Eine detaillierte Anleitung gibt es in diesem **[Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link)** und auf meiner Website unter **[www.circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat)**.
 
-Bilder und Schaltplan findest du im Ordner [`/docs`](./docs).  
+Bilder und Schaltplan sind im Ordner [`/docs`](./docs).  
 
 ---
 
@@ -43,7 +43,7 @@ Der Arduino-Sketch liegt hier [`erschreck-o-mat.ino`](./erschreck-o-mat.ino).
 
 1. Beim Einschalten wird der DFPlayer Mini initialisiert.
 2. Anschließend wird der Startsound `0000.mp3` abgespielt (als akustischer 3-Sekunden-Countdown zum Verstecken der Box).
-3. Danach misst der HC-SR04 den Abstand und speichert diesen als Referenzwert.
+3. Danach misst der HC-SR04 den Abstand zum nächstgelegenen Hindernis vor dem Sensor und speichert diesen als Referenzwert.
 4. Wenn sich der Abstand ab diesem Zeitpunkt verändert (z. B. durch eine Bewegung), wird der Erschreck-Sound `0001.mp3` abgespielt.
 
 ---
@@ -60,15 +60,15 @@ Die Bibliothek ist in der Arduino-IDE standardmäßig enthalten. Falls nicht, ka
 ## 🛠️ Einstellbare Variablen
 
 `triggerAbstand` → Ab welcher Abstandsänderung soll Sound losgehen? (in cm, Werte von `1` bis `100`)  
-`soundVolume` → Wie laut soll Sound angespielt werden? (Werte von `0` bis `30`)
+`soundVolume` → Wie laut soll der Sound angespielt werden? (Werte von `0` bis `30`)
 
 ---
 
 ## 📂 Dateistruktur auf der SD-Karte
 
-Die Micro-SD-Karte im DFPlayer Mini sollte im Root-Verzeichnis einen Ordner `mp3` enthalten mit mindestens diesen zwei Dateien:
+Die Micro-SD-Karte im DFPlayer Mini sollte im Root-Verzeichnis einen Ordner `mp3` enthalten mit diesen zwei Dateien:
 
-/mp3/
+/mp3/  
 ├── 0000.mp3 # Startsound / Countdown  
 └── 0001.mp3 # Erschreck-Sound  
 
@@ -87,7 +87,7 @@ Arbeiten an elektronischen Bauteilen sollten **nur mit entsprechenden Fachkenntn
 ## 📄 Lizenz
 
 Dieses Projekt steht unter der **MIT License**.  
-Details findest du in der Datei [`LICENSE`](./LICENSE) oder am Anfang des Arduino-Sketches.
+Details in der Datei [`LICENSE`](./LICENSE) oder am Anfang des Arduino-Sketches.
 
 ---
 
