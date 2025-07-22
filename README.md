@@ -22,7 +22,7 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 ## 🖨️ 3D-gedrucktes Gehäuse
 
 Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:  
-🔗 **[Thingiverse: Erschreck-O-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
+🔗 **[Thingiverse: Erschreck-O-Mat Gehäuse](https://www.thingiverse.com/thing:7098738)**
 
 Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
 Alternativ eignet sich auch eine stabile Pappkiste 📦 mit folgenden Maßen: `9cm (Breite) x 4cm (Tiefe) x 8cm (Höhe)`
