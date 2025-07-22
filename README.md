@@ -4,18 +4,20 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 ---
 # Hardware
 
-## 🔧 Komponenten
+## 🔧 Komponenten & Werkzeuge
 
 - Arduino-kompatibles Pro Micro Entwicklungsboard
 - HC-SR04 Ultraschall-Abstandssensor
 - DFPlayer Mini MP3-Modul
 - 1k Widerstand für DF Player RX-Pin
+- Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
 - Mini-Lautsprecher (4–8 Ohm)
-- Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
-- Externe Stromversorgung (z. B. USB-Powerbank, 5V-Netzteil oder 9V-Block)
-- Jumper-Kabel, ggf. Breadboard oder Lötmaterial
-- ✅ **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten), alternativ: 📦 kleine Pappkiste
-- Sticker für Gehäuse-Deckel (Vorlage siehe unten)
+- Jumper-Kabel (female-female, 10cm, ca. 10 Stück)
+- Lötkolben (wenn vorhanden), alternativ: Schrumpfschlauch aus dem Baumarkt
+- Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter, alternativ: USB-Powerbank, 5V-Netzteil
+
+- **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten), alternativ: 📦 kleine Pappkiste
+- Sticker/Frontmotiv für Gehäuse-Deckel (Vorlage siehe unten)
 
 ## 🖨️ 3D-gedrucktes Gehäuse
 
