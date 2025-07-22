@@ -33,8 +33,8 @@ Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Sofortsticker
 Die Micro-SD-Karte im DFPlayer Mini sollte im Root-Verzeichnis einen Ordner `mp3` enthalten mit diesen zwei Dateien:
 
 /mp3/  
-├── 0000.mp3 (Startsound / Countdown)  
-└── 0001.mp3 (Erschreck-Sound)  
+- 0000.mp3 (Startsound / Countdown)
+- 0001.mp3 (Erschreck-Sound)  
 
 Die Dateien müssen genau so benannt sein!
 
