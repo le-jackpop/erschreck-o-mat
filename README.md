@@ -14,7 +14,7 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 - Mini-Lautsprecher (4–8 Ohm)
 - Jumper-Kabel (female-female, 10cm, ca. 10 Stück)
 - Lötkolben (wenn vorhanden), alternativ: Schrumpfschlauch aus dem Baumarkt
-- Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter, alternativ: USB-Powerbank, 5V-Netzteil
+- Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter, alternativ: USB-Powerbank, 5V-Netzteil  
 
 - **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten), alternativ: 📦 kleine Pappkiste
 - Sticker/Frontmotiv für Gehäuse-Deckel (Vorlage siehe unten)
