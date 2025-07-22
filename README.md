@@ -2,6 +2,7 @@
 Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pro mit einem Ultraschall-Abstandssensor (HC-SR04), einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
 
 ---
+# Hardware
 
 ## 🔧 Komponenten
 
