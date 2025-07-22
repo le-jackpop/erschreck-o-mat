@@ -21,13 +21,14 @@ Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei d
 Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:
 🔗 **[Thingiverse: Erschreck-o-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
 
-Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung – perfekt zum Verstecken!
+Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
 
 ---
 
 ## 🛠️ Aufbau, Verdrahtung & Dokumentation
 
-Eine detaillierte Anleitung gibt es in diesem Instagram-Tutorial und auf meiner Website [`https://www.circus-of-science.de/erschreck-o-mat`](circus-of-science.de/erschreck-o-mat)
+Eine detaillierte Anleitung gibt es in diesem [Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link)  
+und auf meiner Website unter [circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat).
 
 Bilder und Schaltplan findest du im Ordner [`/docs`](./docs).  
 
