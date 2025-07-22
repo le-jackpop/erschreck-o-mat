@@ -27,8 +27,7 @@ Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, sta
 
 ## 🛠️ Aufbau, Verdrahtung & Dokumentation
 
-Eine detaillierte Anleitung gibt es in diesem [Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link)  
-und auf meiner Website unter [circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat).
+Eine detaillierte Anleitung gibt es in diesem [Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link) und auf meiner Website unter [circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat).
 
 Bilder und Schaltplan findest du im Ordner [`/docs`](./docs).  
 
@@ -60,7 +59,7 @@ Die Bibliothek ist in der Arduino-IDE standardmäßig enthalten. Falls nicht, ka
 
 ## 🛠️ Einstellbare Variablen
 
-`triggerAbstand` → Ab welcher Abstandsänderung soll Sound losgehen? (in cm, Werte von `1` bis `100`)
+`triggerAbstand` → Ab welcher Abstandsänderung soll Sound losgehen? (in cm, Werte von `1` bis `100`)  
 `soundVolume` → Wie laut soll Sound angespielt werden? (Werte von `0` bis `30`)
 
 ---
@@ -70,8 +69,8 @@ Die Bibliothek ist in der Arduino-IDE standardmäßig enthalten. Falls nicht, ka
 Die Micro-SD-Karte im DFPlayer Mini sollte im Root-Verzeichnis einen Ordner `mp3` enthalten mit mindestens diesen zwei Dateien:
 
 /mp3/
-├── 0000.mp3 # Startsound / Countdown
-└── 0001.mp3 # Erschreck-Sound
+├── 0000.mp3 # Startsound / Countdown  
+└── 0001.mp3 # Erschreck-Sound  
 
 Die Dateien müssen genau so benannt sein!
 
