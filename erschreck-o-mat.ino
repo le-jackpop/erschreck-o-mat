@@ -4,7 +4,7 @@
   Stand: Juli 2025
 
   Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt,
-  bei dem ein Arduino-kompatibles Pro Micro Boards mit einem Ultraschall-Abstandssensor (HC-SR04),
+  bei dem ein Arduino-kompatibles Pro Micro Board mit einem Ultraschall-Abstandssensor (HC-SR04),
   einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, 
   um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
 
