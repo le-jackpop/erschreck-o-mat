@@ -29,7 +29,7 @@ Alternativ eignet sich auch eine stabile Pappkiste 📦 mit folgenden Maßen: `9
 
 ## 📸 Sticker-Vorlage
 
-Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Sofortsticker im Drogeriemarkt am Fotoautomat erstellt werden oder zu Hause auf Papier ausgedruckt werden. Eine Vorlage mit der passenden Größe für den 3D-Druck-Deckel liegt im Ordner [`/docs`](./docs).
+Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Freiform-Sofortsticker im Drogeriemarkt am Fotoautomat erstellt werden oder zu Hause auf Papier ausgedruckt werden. Eine Vorlage mit der passenden Größe für den 3D-Druck-Deckel liegt im Ordner [`/docs`](./docs).
 
 ## 📂 Dateistruktur auf der SD-Karte
 
