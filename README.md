@@ -8,6 +8,7 @@ Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei d
 - Arduino Micro Pro (kompatibel)
 - HC-SR04 Ultraschall-Abstandssensor
 - DFPlayer Mini MP3-Modul
+- 1k Widerstand für DF Player TX-Pin
 - Mini-Lautsprecher (4–8 Ohm)
 - Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
 - Externe Stromversorgung (z. B. USB-Powerbank, 5V-Netzteil oder 9V-Block)
