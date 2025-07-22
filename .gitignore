@@ -1,0 +1,15 @@
+# Systemdateien (nicht versionsrelevant)
+.DS_Store
+Thumbs.db
+.Trashes
+
+# Temporäre / Backup-Dateien
+*.tmp
+*.bak
+*~
+*.swp
+
+# Kompilierte Arduino-Ausgaben (werden lokal erzeugt)
+*.hex
+*.elf
+*.bin
