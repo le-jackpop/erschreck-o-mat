@@ -6,7 +6,7 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pr
 
 ## 🔧 Komponenten
 
-- Arduino Micro Pro (kompatibel)
+- Arduino Micro Pro (oder kompatibles Entwicklungsboard)
 - HC-SR04 Ultraschall-Abstandssensor
 - DFPlayer Mini MP3-Modul
 - 1k Widerstand für DF Player TX-Pin
