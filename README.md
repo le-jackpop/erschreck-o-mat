@@ -26,7 +26,7 @@ Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, sta
 
 ## 📸 Sticker-Vorlage
 
-Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Sofortsticker im Drogeriemarkt am Fotoautomat erstellt werden oder zu Hause auf Papier ausgedruckt werden. Eine Vorlage mit der passenden Größe für den 3D-Druck-Deckel liegt hier [`/docs/erschreck-o-mat_deckelvorlage.pdf`](./docs/erschreck-o-mat_deckelvorlage.pdf).
+Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Sofortsticker im Drogeriemarkt am Fotoautomat erstellt werden oder zu Hause auf Papier ausgedruckt werden. Eine Vorlage mit der passenden Größe für den 3D-Druck-Deckel liegt im Ordner [`/docs`](./docs).
 
 ## 📂 Dateistruktur auf der SD-Karte
 
