@@ -1,4 +1,4 @@
-# Jack Pop's Erschreck-o-Mat 👻  
+# Jack Pop's Erschreck-O-Mat 👻  
 Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pro mit einem Ultraschall-Abstandssensor (HC-SR04), einem Mp3-Modul (DF Player) und einem Mini-Lautsprecher verbunden wird, um immer dann einen Sound abzuspielen, wenn sich etwas vor dem Abstandssensor bewegt.
 
 ---
@@ -20,7 +20,7 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino Micro Pr
 ## 🖨️ 3D-gedrucktes Gehäuse
 
 Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:  
-🔗 **[Thingiverse: Erschreck-o-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
+🔗 **[Thingiverse: Erschreck-O-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
 
 Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
 
