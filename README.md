@@ -25,6 +25,7 @@ Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und
 🔗 **[Thingiverse: Erschreck-O-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
 
 Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
+Alternativ eignet sich auch eine stabile Pappkiste 📦 mit folgenden Maßen: `9cm (Breite) x 4cm (Tiefe) x 8cm (Höhe)`
 
 ## 📸 Sticker-Vorlage
 
