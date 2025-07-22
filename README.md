@@ -13,7 +13,7 @@ Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei d
 - Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
 - Externe Stromversorgung (z. B. USB-Powerbank, 5V-Netzteil oder 9V-Block)
 - Jumper-Kabel, ggf. Breadboard oder Lötmaterial
-- ✅ **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten) alternativ: 📦 kleine Pappkiste
+- ✅ **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten), alternativ: 📦 kleine Pappkiste
 - Sticker für Gehäuse-Deckel (Vorlage siehe unten)
 
 ---
