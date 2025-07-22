@@ -68,8 +68,8 @@ Die Bibliothek ist in der Arduino-IDE standardmäßig enthalten. Falls nicht, ka
 
 ## 🛠️ Einstellbare Variablen
 
-`triggerAbstand` → Ab welcher Abstandsänderung soll der Sound losgehen? (in cm, Werte von `1` bis `100`)  
-`soundVolume` → Wie laut soll der Sound abgespielt werden? (Werte von `0` bis `30`)
+`triggerAbstand` (Zeile 53) → Ab welcher Abstandsänderung soll der Sound losgehen? (in cm, Werte von `1` bis `100`)  
+`soundVolume` (Zeile 54) → Wie laut soll der Sound abgespielt werden? (Werte von `0` bis `30`)
 
 ---
 # Rechtliches
