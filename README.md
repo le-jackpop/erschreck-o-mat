@@ -18,7 +18,7 @@ Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei d
 
 ## 📦 3D-gedrucktes Gehäuse
 
-Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:
+Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:  
 🔗 **[Thingiverse: Erschreck-o-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
 
 Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
