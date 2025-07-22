@@ -13,16 +13,23 @@ Dieser Arduino-Sketch ist Code für ein kleines, feines Elektronikprojekt, bei d
 - Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
 - Externe Stromversorgung (z. B. USB-Powerbank, 5V-Netzteil oder 9V-Block)
 - Jumper-Kabel, ggf. Breadboard oder Lötmaterial
-- ✅ **Optional: 3D-gedrucktes Gehäuse** (siehe unten)
+- ✅ **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten) alternativ: 📦 kleine Pappkiste
+- Sticker für Gehäuse-Deckel (Vorlage siehe unten)
 
 ---
 
-## 📦 3D-gedrucktes Gehäuse
+## 🖨️ 3D-gedrucktes Gehäuse
 
 Ein passendes Gehäuse für das Projekt kann auf Thingiverse heruntergeladen und selbst gedruckt werden:  
 🔗 **[Thingiverse: Erschreck-o-Mat Gehäuse](https://www.thingiverse.com/le_jackpop/)**
 
 Das Gehäuse bietet Platz für alle Komponenten und sorgt für eine saubere, stabile und unauffällige Unterbringung.
+
+---
+
+## 📸 Sticker-Vorlage
+
+Der Foto-Sticker für den Deckel der Box kann entweder als 10x15cm-Sofortsticker im Drogeriemarkt am Fotoautomat erstellt werden oder zu Hause auf Papier ausgedruckt werden. Eine Vorlage mit der passenden Größe für den 3D-Druck-Deckel (siehe Link oben) liegt im Ordner [`/docs`](./docs).
 
 ---
 
