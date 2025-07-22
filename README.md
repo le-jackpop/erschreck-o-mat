@@ -45,6 +45,7 @@ Der Arduino-Sketch liegt hier [`erschreck-o-mat.ino`](./erschreck-o-mat.ino).
 2. Anschließend wird der Startsound `0000.mp3` abgespielt (als akustischer 3-Sekunden-Countdown zum Verstecken der Box).
 3. Danach misst der HC-SR04 den Abstand zum nächstgelegenen Hindernis vor dem Sensor und speichert diesen als Referenzwert.
 4. Wenn sich der Abstand ab diesem Zeitpunkt verändert (z. B. durch eine Bewegung), wird der Erschreck-Sound `0001.mp3` abgespielt.
+5. Nach dem Abspielen macht das Gerät nichts mehr. Neustart durch aus- und wieder einschalten.
 
 ---
 
