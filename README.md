@@ -49,7 +49,7 @@ Die Dateien müssen genau so benannt sein!
 
 ## 🛠️ Aufbau, Verdrahtung & Dokumentation
 
-Eine detaillierte Anleitung gibt es in diesem **[Instagram-Tutorial](https://www.instagram.com/dein-tutorial-link)** und auf meiner Website unter **[www.circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat)**.
+Eine detaillierte Anleitung gibt es auf meiner Website unter **[www.circus-of-science.de/erschreck-o-mat](https://www.circus-of-science.de/erschreck-o-mat)**.
 
 Bilder und Schaltplan sind im Ordner [`/docs`](./docs).  
 
