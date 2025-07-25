@@ -6,18 +6,24 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 
 ## 🔧 Komponenten & Werkzeuge
 
-- Arduino-kompatibles Pro Micro Entwicklungsboard
-- HC-SR04 Ultraschall-Abstandssensor
-- DFPlayer Mini MP3-Modul
-- 1k Widerstand für DF Player RX-Pin
-- Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)
-- Mini-Lautsprecher (4–8 Ohm)
-- Jumper-Kabel (female-female, 10cm, ca. 10 Stück)
-- Lötkolben (wenn vorhanden), alternativ: Schrumpfschlauch aus dem Baumarkt
-- Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter, alternativ: USB-Powerbank, 5V-Netzteil  
+- <a href="https://amzn.to/4f71PXd" target="_blank" class="textlink">Pro Micro Entwicklungsboard ("Mini-Computer")</a>  
+- <a href="https://amzn.to/3TWOzuo" target="_blank" class="textlink">HC-SR04 Ultraschall-Abstandssensor</a>  
+- <a href="https://amzn.to/4o7AHLM" target="_blank" class="textlink">DFPlayer Mini MP3-Modul</a>  
+- <a href="https://amzn.to/3H7AxTM" target="_blank" class="textlink">1k Widerstand für DF Player RX-Pin</a>  
+- <a href="https://amzn.to/4kXpyKM" target="_blank" class="textlink">Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)</a>  
+- <a href="https://amzn.to/44N7X3d" target="_blank" class="textlink">Mini-Lautsprecher (4–8 Ohm)</a>  
+- <a href="https://amzn.to/4o0QAU5" target="_blank" class="textlink">Jumper-Kabel (female-female, 10cm, ca. 10 Stück)</a>  
+- <a href="https://amzn.to/4kTfgLH" target="_blank" class="textlink">Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter</a>  
+- Lötkolben & Lötmaterial, alternativ: Klemmverbindung/Stoßverbindung (hier bitte bei Profis nachfragen)  
 
 - **Optional: 3D-gedrucktes Gehäuse** (Link siehe unten), alternativ: 📦 kleine Pappkiste
 - Sticker/Frontmotiv für Gehäuse-Deckel (Vorlage siehe unten)
+  
+**Disclaimer**
+
+Ich übernehme keine Haftung für Bauteile, die am Ende nicht passen. Alle hier erwähnten Produkte habe ich selbst bestellt und getestet, manchmal ändern Hersteller aber Maße und/oder Funktionen, darauf habe ich keinen Einfluss.<br><br>Alle Bauteile bekommt ihr bei größeren Elektronik-Portalen wie <a href="https://www.reichelt.de/" target="_blank" class="textlink">Reichelt</a> etwas günstiger. Widerstände, zum Beispiel, kann man dort einzeln kaufen und nicht im 10er- oder 100er-Pack. Leider wollte trotz mehrfacher Nachfrage keiner der drei von mir angeschriebenen deutschen Online-Shops dieses Projekt supporten, weshalb es am Ende hier **Amazon-Affiliate-Links** geworden sind. Wenn ihr über diese Links kauft (und den leicht höheren Preis in Kauf nehmt), bekomme ich einen kleinen Teil davon ab und ihr unterstützt mich und meine Projekte. Die Affiliate-Links an sich erzeugen für euch keine höheren Kosten.
+
+Wenn ihr euch die Bauteile selbst zusammenstellt und mich trotzdem etwas supporten möchtet, könnt ihr das <a href="https://www.paypal.com/donate/?hosted_button_id=9MJAF9HTDPYHL" target="_blank" class="textlink">**hier über meinen Paypal-Spenden-Button**</a> tun. Ich freue mich auch über kleine Beträge, die mir helfen, die Entwicklung solcher Gadgets und die ganze Video- und Tutorial-Arbeit umzusetzen. 1000 Dank dafür! 🙏🏼
 
 ## 🖨️ 3D-gedrucktes Gehäuse
 
