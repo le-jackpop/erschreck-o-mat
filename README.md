@@ -85,9 +85,7 @@ Die Bibliothek ist in der Arduino-IDE standardmäßig enthalten. Falls nicht, ka
 
 ## ⚠️ Haftungsausschluss
 
-Dieses Projekt dient ausschließlich zu Bildungs- und Demonstrationszwecken.  
-Der Nachbau erfolgt **auf eigene Gefahr**. Es wird keine Haftung übernommen für Schäden an Personen, Tieren, Gegenständen oder Daten.  
-Arbeiten an elektronischen Bauteilen sollten **nur mit entsprechenden Fachkenntnissen** durchgeführt werden.
+Dieses Projekt dient ausschließlich zu Bildungs- und Demonstrationszwecken.  Der Nachbau erfolgt **auf eigene Gefahr**. Es wird keine Haftung übernommen für Schäden an Personen, Tieren, Gegenständen oder Daten. Arbeiten an elektronischen Bauteilen sollten **nur mit entsprechenden Fachkenntnissen** durchgeführt werden.
 
 ## 📄 Lizenz
 
