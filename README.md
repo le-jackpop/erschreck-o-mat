@@ -9,9 +9,9 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 - <a href="https://amzn.to/4f71PXd" target="_blank" class="textlink">Pro Micro Entwicklungsboard ("Mini-Computer")</a>  
 - <a href="https://amzn.to/3TWOzuo" target="_blank" class="textlink">HC-SR04 Ultraschall-Abstandssensor</a>  
 - <a href="https://amzn.to/4o7AHLM" target="_blank" class="textlink">DFPlayer Mini MP3-Modul</a>  
-- <a href="https://amzn.to/3H7AxTM" target="_blank" class="textlink">1k Widerstand für DF Player RX-Pin</a>  
-- <a href="https://amzn.to/4kXpyKM" target="_blank" class="textlink">Micro-SD-Karte mit Audiodateien (z. B. MP3 oder WAV)</a>  
-- <a href="https://amzn.to/44N7X3d" target="_blank" class="textlink">Mini-Lautsprecher (4–8 Ohm)</a>  
+- <a href="https://amzn.to/3H7AxTM" target="_blank" class="textlink">1kΩ Widerstand für DF Player RX-Pin</a>  
+- <a href="https://amzn.to/3H7Bqfb" target="_blank" class="textlink">Micro-SD-Karte für die Audiodateien</a>  
+- <a href="https://amzn.to/44N7X3d" target="_blank" class="textlink">Mini-Lautsprecher (4Ω oder 8Ω)</a>  
 - <a href="https://amzn.to/4o0QAU5" target="_blank" class="textlink">Jumper-Kabel (female-female, 10cm, ca. 10 Stück)</a>  
 - <a href="https://amzn.to/4kTfgLH" target="_blank" class="textlink">Stromversorgung: 9V-Block-Gehäuse mit On/Off-Schalter</a>  
 - Lötkolben & Lötmaterial, alternativ: Klemmverbindung/Stoßverbindung (hier bitte bei Profis nachfragen)  
