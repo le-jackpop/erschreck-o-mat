@@ -6,6 +6,10 @@ Das hier ist ein kleines, feines Elektronikprojekt, bei dem ein Arduino-kompatib
 
 ## 🔧 Komponenten & Werkzeuge
 
+Ich habe diese Liste mit einiger Recherchezeit zusammengestellt, weil ich das Projekt so niederschwellig, einfach aber auch so günstig wie möglich halten wollte. Damit das Projekt Spaß macht, selbst wenn ihr noch keine Erfahrung mit Elektronik-Projekten habt. Wenn ihr schon im Bastel-Game seid, werdet ihr hier und da selbst wissen, was ihr anders angeht, um das Ganze noch etwas effizienter zu bauen. Damit die Bauteile exakt in mein 3D-Druck-Gehäuse passen und ihr nicht wochenlang auf eine Lieferung aus China warten müsst, habe ich die folgende Liste zusammengestellt, bei der sich Preis, Versandzeit und Kompatibilität gut die Waage halten.
+
+<a href="https://www.amazon.de/shop/le_jackpop" target="_blank" class="textlink">Hier gibt's alle Bauteile gesammelt in meiner Amazon-Storefront</a> (Hinweise zu Affiliate-Links unten beachten) und hier alle noch einmal einzeln aufgelistet:  
+
 - <a href="https://amzn.to/4f71PXd" target="_blank" class="textlink">Pro Micro Entwicklungsboard ("Mini-Computer")</a>  
 - <a href="https://amzn.to/3TWOzuo" target="_blank" class="textlink">HC-SR04 Ultraschall-Abstandssensor</a>  
 - <a href="https://amzn.to/4o7AHLM" target="_blank" class="textlink">DFPlayer Mini MP3-Modul</a>  
